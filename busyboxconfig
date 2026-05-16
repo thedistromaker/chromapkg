@@ -1,7 +1,6 @@
 #
 # Automatically generated make config: don't edit
-# Busybox version: 1.37.0
-# Sat Sep 28 12:27:16 2024
+# Busybox version: 1.8.0.git
 #
 CONFIG_HAVE_DOT_CONFIG=y
 
@@ -67,7 +66,7 @@ CONFIG_INSTALL_APPLET_DONT=y
 # CONFIG_INSTALL_SH_APPLET_SYMLINK is not set
 # CONFIG_INSTALL_SH_APPLET_HARDLINK is not set
 # CONFIG_INSTALL_SH_APPLET_SCRIPT_WRAPPER is not set
-CONFIG_PREFIX="/home/ncopa/aports/main/busybox/pkg/busybox"
+CONFIG_PREFIX=""
 
 #
 # Debugging Options
